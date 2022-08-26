@@ -3,7 +3,6 @@
 :root {
 	--dark: #0D0D2B;
 	--white: #ffffff;
-	--gray: rgb(150, 125, 125);
 	--white-rgb: 255, 255, 255;
 	--blue: #3671E9;
 	--purple: #2B076E;
@@ -14,7 +13,7 @@
 
 body {
 	background-color: var(--dark);
-	color: var(--gray);
+	color: var(--white);
 	font-family: 'Rubik', sans-serif;
 }
 
